@@ -21,7 +21,7 @@
 //    CALayer*blueLayer=[CALayer layer];
 //    blueLayer.frame=CGRectMake(50.0f, 50.0f, 100.0f, 100.0f);
 //    blueLayer.backgroundColor=[UIColor blueColor].CGColor;
-//    [self.layerView.layer addSublayer:blueLayer];
+
     UIImage*image=[UIImage imageNamed:@"03.jpg"];
     self.layerView.layer.contents=(__bridge id)(image.CGImage);
   

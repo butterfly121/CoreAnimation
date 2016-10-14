@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C7D9B5BF1D80FBA800BF60F0 /* 04.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C7D9B5BE1D80FBA800BF60F0 /* 04.jpg */; };
+		C7D9B5C11D8101DB00BF60F0 /* 123.png in Resources */ = {isa = PBXBuildFile; fileRef = C7D9B5C01D8101DB00BF60F0 /* 123.png */; };
 		C7E7A0C51D7FB185008B0A90 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = C7E7A0C41D7FB185008B0A90 /* main.m */; };
 		C7E7A0C81D7FB186008B0A90 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = C7E7A0C71D7FB186008B0A90 /* AppDelegate.m */; };
 		C7E7A0CB1D7FB186008B0A90 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C7E7A0CA1D7FB186008B0A90 /* ViewController.m */; };
@@ -15,6 +17,12 @@
 		C7E7A0D31D7FB187008B0A90 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C7E7A0D11D7FB187008B0A90 /* LaunchScreen.storyboard */; };
 		C7E7A0DE1D7FB187008B0A90 /* CoreAnimationTests.m in Sources */ = {isa = PBXBuildFile; fileRef = C7E7A0DD1D7FB187008B0A90 /* CoreAnimationTests.m */; };
 		C7E7A0E91D7FB187008B0A90 /* CoreAnimationUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = C7E7A0E81D7FB187008B0A90 /* CoreAnimationUITests.m */; };
+		C7E7A0F81D7FB76E008B0A90 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C7E7A0F71D7FB76E008B0A90 /* QuartzCore.framework */; };
+		C7E7A0FA1D7FBB0B008B0A90 /* 02.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C7E7A0F91D7FBB0B008B0A90 /* 02.jpg */; };
+		C7E7A0FC1D7FBDDE008B0A90 /* 03.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C7E7A0FB1D7FBDDE008B0A90 /* 03.jpg */; };
+		C7E7A0FE1D7FE4BD008B0A90 /* 2.7.png in Resources */ = {isa = PBXBuildFile; fileRef = C7E7A0FD1D7FE4BD008B0A90 /* 2.7.png */; };
+		C7E7A1021D7FF11D008B0A90 /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C7E7A1001D7FF11D008B0A90 /* SecondViewController.m */; };
+		C7E7A1031D7FF11D008B0A90 /* SecondViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = C7E7A1011D7FF11D008B0A90 /* SecondViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +43,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		C7D9B5BE1D80FBA800BF60F0 /* 04.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 04.jpg; sourceTree = "<group>"; };
+		C7D9B5C01D8101DB00BF60F0 /* 123.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 123.png; sourceTree = "<group>"; };
 		C7E7A0C01D7FB17F008B0A90 /* CoreAnimation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CoreAnimation.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C7E7A0C41D7FB185008B0A90 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		C7E7A0C61D7FB185008B0A90 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -51,6 +61,13 @@
 		C7E7A0E41D7FB187008B0A90 /* CoreAnimationUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CoreAnimationUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C7E7A0E81D7FB187008B0A90 /* CoreAnimationUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CoreAnimationUITests.m; sourceTree = "<group>"; };
 		C7E7A0EA1D7FB187008B0A90 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C7E7A0F71D7FB76E008B0A90 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		C7E7A0F91D7FBB0B008B0A90 /* 02.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 02.jpg; sourceTree = "<group>"; };
+		C7E7A0FB1D7FBDDE008B0A90 /* 03.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 03.jpg; sourceTree = "<group>"; };
+		C7E7A0FD1D7FE4BD008B0A90 /* 2.7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.7.png; sourceTree = "<group>"; };
+		C7E7A0FF1D7FF11D008B0A90 /* SecondViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SecondViewController.h; sourceTree = "<group>"; };
+		C7E7A1001D7FF11D008B0A90 /* SecondViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
+		C7E7A1011D7FF11D008B0A90 /* SecondViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SecondViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +75,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C7E7A0F81D7FB76E008B0A90 /* QuartzCore.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -81,6 +99,8 @@
 		C7E7A0B71D7FB17B008B0A90 = {
 			isa = PBXGroup;
 			children = (
+				C7E7A0F71D7FB76E008B0A90 /* QuartzCore.framework */,
+				C7E7A0F61D7FB761008B0A90 /* Framework */,
 				C7E7A0C21D7FB184008B0A90 /* CoreAnimation */,
 				C7E7A0DC1D7FB187008B0A90 /* CoreAnimationTests */,
 				C7E7A0E71D7FB187008B0A90 /* CoreAnimationUITests */,
@@ -101,10 +121,18 @@
 		C7E7A0C21D7FB184008B0A90 /* CoreAnimation */ = {
 			isa = PBXGroup;
 			children = (
+				C7D9B5C01D8101DB00BF60F0 /* 123.png */,
+				C7D9B5BE1D80FBA800BF60F0 /* 04.jpg */,
+				C7E7A0FB1D7FBDDE008B0A90 /* 03.jpg */,
+				C7E7A0F91D7FBB0B008B0A90 /* 02.jpg */,
+				C7E7A0FD1D7FE4BD008B0A90 /* 2.7.png */,
 				C7E7A0C61D7FB185008B0A90 /* AppDelegate.h */,
 				C7E7A0C71D7FB186008B0A90 /* AppDelegate.m */,
 				C7E7A0C91D7FB186008B0A90 /* ViewController.h */,
 				C7E7A0CA1D7FB186008B0A90 /* ViewController.m */,
+				C7E7A0FF1D7FF11D008B0A90 /* SecondViewController.h */,
+				C7E7A1001D7FF11D008B0A90 /* SecondViewController.m */,
+				C7E7A1011D7FF11D008B0A90 /* SecondViewController.xib */,
 				C7E7A0CC1D7FB186008B0A90 /* Main.storyboard */,
 				C7E7A0CF1D7FB186008B0A90 /* Assets.xcassets */,
 				C7E7A0D11D7FB187008B0A90 /* LaunchScreen.storyboard */,
@@ -138,6 +166,13 @@
 				C7E7A0EA1D7FB187008B0A90 /* Info.plist */,
 			);
 			path = CoreAnimationUITests;
+			sourceTree = "<group>";
+		};
+		C7E7A0F61D7FB761008B0A90 /* Framework */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Framework;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -244,8 +279,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				C7E7A0D31D7FB187008B0A90 /* LaunchScreen.storyboard in Resources */,
+				C7E7A1031D7FF11D008B0A90 /* SecondViewController.xib in Resources */,
 				C7E7A0D01D7FB186008B0A90 /* Assets.xcassets in Resources */,
+				C7D9B5C11D8101DB00BF60F0 /* 123.png in Resources */,
 				C7E7A0CE1D7FB186008B0A90 /* Main.storyboard in Resources */,
+				C7E7A0FE1D7FE4BD008B0A90 /* 2.7.png in Resources */,
+				C7D9B5BF1D80FBA800BF60F0 /* 04.jpg in Resources */,
+				C7E7A0FC1D7FBDDE008B0A90 /* 03.jpg in Resources */,
+				C7E7A0FA1D7FBB0B008B0A90 /* 02.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -270,6 +311,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C7E7A1021D7FF11D008B0A90 /* SecondViewController.m in Sources */,
 				C7E7A0CB1D7FB186008B0A90 /* ViewController.m in Sources */,
 				C7E7A0C81D7FB186008B0A90 /* AppDelegate.m in Sources */,
 				C7E7A0C51D7FB185008B0A90 /* main.m in Sources */,
@@ -498,6 +540,7 @@
 				C7E7A0EF1D7FB187008B0A90 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C7E7A0F01D7FB187008B0A90 /* Build configuration list for PBXNativeTarget "CoreAnimationTests" */ = {
 			isa = XCConfigurationList;
@@ -506,6 +549,7 @@
 				C7E7A0F21D7FB187008B0A90 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C7E7A0F31D7FB187008B0A90 /* Build configuration list for PBXNativeTarget "CoreAnimationUITests" */ = {
 			isa = XCConfigurationList;
@@ -514,6 +558,7 @@
 				C7E7A0F51D7FB187008B0A90 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
